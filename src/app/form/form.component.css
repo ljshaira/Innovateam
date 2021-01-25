@@ -1,0 +1,9 @@
+.form-class {
+  background-color: #FBF9F9;
+  height: 10.20vh;
+}
+
+input, button {
+  margin-top: 0.5rem;
+  margin-left: 10rem;
+}
